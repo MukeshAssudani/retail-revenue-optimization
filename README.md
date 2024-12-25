@@ -8,6 +8,7 @@ Date Functions
 Window Functions
 
 Key Insights:
+
 **Revenue Trends**- The highest revenue-generating products belong to the footwear category, primarily dominated by the Adidas brand.
 
 **Customer Review**- Most reviews are associated with Adidas products, revealing a direct correlation between product descriptions and ratings.
